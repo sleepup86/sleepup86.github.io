@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My first blog."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "sleepup"
 description              : "An amazing website."
 url                      : "https://sleepup86.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
