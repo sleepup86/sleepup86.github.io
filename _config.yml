@@ -97,7 +97,7 @@ author:
   name             : "sleepup"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Start to study IT"
-  location         : "Namyangju-si, Gyeonggi-do"
+  location         : "South Korea"  #"Gyeonggi-do"
   email            :
   links:
     - label: "Email"
