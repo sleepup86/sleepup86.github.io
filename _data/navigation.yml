@@ -2,8 +2,6 @@
 main:
   - title: "IT"
     url: /categories/IT
-  - title: "Test"
-    url: /test/
   - title: "Categories"
     url: /categories/
   - title: "Posts"
