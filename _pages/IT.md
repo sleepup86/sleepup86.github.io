@@ -1,5 +1,5 @@
 ---
-title: "about IT"
+title: "About IT"
 layout: categories
 permalink: /categories/IT
 author_profile: true
