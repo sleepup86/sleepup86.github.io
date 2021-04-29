@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "IT"
+    url: /categories/IT
   - title: "Categories"
     url: /categories/
   - title: "Posts"
